@@ -1,0 +1,11 @@
+int main()
+{
+	int a=8+22*2;
+	int i=0;
+	do
+	{
+	a=a+9;
+	i++;
+	}
+	while(i<6);
+}
