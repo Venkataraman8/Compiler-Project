@@ -1,0 +1,16 @@
+int main()
+{
+	char ch='x';
+	int b;
+	switch(ch)
+	{
+		case 'x':
+		b=8;
+		break;
+
+		case 'y':
+		b=7;
+		break;
+	}
+	return 0;
+}

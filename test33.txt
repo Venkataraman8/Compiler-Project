@@ -1,0 +1,16 @@
+int main()
+{
+	int a=9;
+	int b;
+	switch(a)
+	{
+		case 3:
+		b=8;
+		break;
+
+		case 9:
+		b=7;
+		break;
+	}
+	return 0;
+}
